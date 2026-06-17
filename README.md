@@ -56,11 +56,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lxm-0&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&icon_color=A3A3A3&text_color=A3A3A3" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=A3A3A3" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lxm-0&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=A3A3A3" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=A3A3A3&sideNums=FFFFFF&sideLabels=A3A3A3&ring=777777&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=A3A3A3" alt="GitHub Streak" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lxm-0&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=A3A3A3&sideNums=FFFFFF&sideLabels=A3A3A3&ring=777777&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=A3A3A3" alt="GitHub Streak" width="98%" />
 </div>
 
 <br/>
